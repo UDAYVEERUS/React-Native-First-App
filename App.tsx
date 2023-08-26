@@ -77,8 +77,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Udayveer App">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+            This <Text style={styles.highlight}>App.tsx</Text> is my first project on react native.
           </Section>
           <Section title="Diksha Thakur">
             <ReloadInstructions />
